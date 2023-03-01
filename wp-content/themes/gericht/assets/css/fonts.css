@@ -1,0 +1,128 @@
+/* font-family: 'Cormorant Upright', serif; */
+/* font-family: 'Open Sans', sans-serif; */
+/*font-family: 'Reenie Beanie', cursive;*/
+body {
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 a {
+    color: inherit;
+}
+
+h1,
+.h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+    color: #DCCA87;
+    text-transform: capitalize;
+}
+
+h2,
+.h2 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 130%;
+    letter-spacing: 0.03em;
+    color: #DCCA87;
+    text-transform: capitalize;
+}
+
+h3,
+.h3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+h4,
+.h4 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+    color: #DCCA87;
+    text-transform: capitalize;
+}
+
+h5,
+.h5 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-style: normal;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 130%;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+h6,
+.h6 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-style: normal;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 175%;
+    letter-spacing: 0.04em;
+    color: #AAAAAA;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #AAAAAA;
+    letter-spacing: 0.04em;
+
+}
+
+button {
+    padding: 0;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+input,
+button,
+textarea,
+select {
+    font: inherit;
+}
